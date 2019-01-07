@@ -8,3 +8,4 @@ Those and other settings are specified in the Options class.<br/>
 For the example see Program.cs, which was part of my test application.
 <br/>
 ![screenshot](https://user-images.githubusercontent.com/12141419/50762896-95c61500-126e-11e9-901c-6d232f0a6467.jpg)
+![screenshot2](https://user-images.githubusercontent.com/12141419/50763113-33214900-126f-11e9-945a-926fc0728338.jpg)
